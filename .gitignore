@@ -1,0 +1,12 @@
+# Ignora as pastas de dependências em qualquer subdiretório
+**/node_modules/
+
+# Ignora pastas de compilação/build
+**/dist/
+
+# Arquivos de log e do sistema
+npm-debug.log*
+.DS_Store
+
+# Configurações locais (importante para quando você usar banco de dados real)
+.env

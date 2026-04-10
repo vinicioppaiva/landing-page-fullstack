@@ -1,0 +1,70 @@
+{
+  "perfil": {
+    "nome": "Vinício Paiva",
+    "titulo": "Engenheiro Civil & Desenvolvedor Full Stack",
+    "email": "vinicioppaiva@gmail.com",
+    "telefone": "(21) 98091-3238",
+    "localizacao": "Rio de Janeiro, RJ",
+    "links": {
+      "linkedin": "https://linkedin.com/in/vinicio-paiva-04a96b197",
+      "github": "https://github.com/vinicioppaiva"
+    },
+    "objetivo": "Engenheiro Civil em transição para a tecnologia, focado em aplicar raciocínio lógico e análise de dados para criar soluções eficientes em Backend e IA."
+  },
+  "tecnologias": {
+    "linguagens": ["JavaScript", "TypeScript", "SQL"],
+    "frontend": ["React", "HTML5", "CSS3"],
+    "backend": ["Node.js", "Express", "APIs REST", "Orientação a Objetos (POO)"],
+    "ferramentas": ["Git", "GitHub", "Power BI", "Excel VBA", "AWS", "Azure", "Scrum"]
+  },
+  "experiencias": [
+    {
+      "cargo": "Analista Financeiro",
+      "empresa": "Food Team/Valeu - Catering Solution",
+      "periodo": "Fevereiro de 2019 - Presente",
+      "conquistas": [
+        "Automatização de fluxos financeiros e processos utilizando Excel Avançado e VBA.",
+        "Análise complexa de vendas e comissões para suporte à tomada de decisão.",
+        "Suporte técnico de softwares de venda e hardware."
+      ]
+    },
+    {
+      "cargo": "Supervisor de Operações",
+      "empresa": "Material Agora Ltda.",
+      "periodo": "Junho de 2022 - Fevereiro de 2023",
+      "conquistas": [
+        "Liderança de equipes operacionais e negociação estratégica com fornecedores.",
+        "Análise de KPIs para otimização de processos e garantia do sucesso do cliente."
+      ]
+    },
+    {
+      "cargo": "Analista de Operações",
+      "empresa": "Material Agora Ltda.",
+      "periodo": "Julho de 2021 - Junho de 2022",
+      "conquistas": [
+        "Desenvolvimento de lógica de preços e análise de mercado.",
+        "Criação de modelos de dados para planejamento e logística de entregas."
+      ]
+    }
+  ],
+  "educacao": [
+    {
+      "curso": "Engenharia Civil",
+      "instituicao": "Universidade do Estado do Rio de Janeiro (UERJ)",
+      "conclusao": "Junho de 2024",
+      "detalhes": "Ênfase em Construção Civil e participação no Grupo de Perícias Práticas."
+    }
+  ],
+  "certificacoes": [
+    {
+      "nome": "Desenvolvimento Front-End",
+      "instituicao": "SENAI / FIRJAN",
+      "conclusao": "Janeiro de 2026",
+      "descricao": "Curso focado em tecnologias modernas de interface e experiência do usuário para desenvolvimento Web."
+    }
+  ],
+  "idiomas": [
+    { "lingua": "Inglês", "nivel": "Intermediário" },
+    { "lingua": "Espanhol", "nivel": "Intermediário" }
+  ]
+}
