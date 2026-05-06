@@ -1,0 +1,8 @@
+/* frontend/src/index.css */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0a192f; /* O azul marinho que definimos */
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+}

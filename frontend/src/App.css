@@ -1,0 +1,70 @@
+/* frontend/src/App.module.css */
+.appContainer {
+  min-height: 100vh;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #e6f1ff;
+  background-color: #0a192f;
+  /* É AQUI que você muda a grade (cor e tamanho) */
+  background-image: 
+    linear-gradient(rgba(100, 255, 218, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(100, 255, 218, 0.05) 1px, transparent 1px);
+  background-size: 30px 30px;
+}
+
+.heroSection {
+  position: relative;
+  max-width: 900px;
+  width: 100%;
+  padding: 4rem 2rem;
+  border-left: 2px solid #64ffda;
+  background: rgba(10, 25, 47, 0.8);
+  backdrop-filter: blur(5px);
+}
+
+.tagDev {
+  color: #64ffda;
+  font-family: 'Fira Code', monospace;
+  font-weight: bold;
+}
+
+.name {
+  font-size: clamp(2.5rem, 8vw, 4rem);
+  margin: 0.5rem 0;
+  color: #ffffff;
+}
+
+.titleTech {
+  color: #8892b0;
+  font-size: clamp(1.5rem, 5vw, 2.5rem);
+  margin-bottom: 1.5rem;
+}
+
+.bio {
+  max-width: 600px;
+  line-height: 1.6;
+  color: #a8b2d1;
+}
+
+.techPills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 2rem;
+}
+
+.pill {
+  padding: 0.5rem 1rem;
+  border: 1px solid #64ffda;
+  color: #64ffda;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-family: 'Fira Code', monospace;
+  transition: all 0.3s ease;
+}
+
+.pill:hover {
+  background: rgba(100, 255, 218, 0.1);
+}
